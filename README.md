@@ -1,7 +1,7 @@
 # Debian 13 “Trixie” Installation Steps
 
 ## 1 Prepare for Installation
-Download the Debian 13 “Bookworm” ISO from official [Debian website](https://www.debian.org/). Select the appropriate ISO for your computer. 
+Download the Debian 13 “Trixie” ISO from official [Debian website](https://www.debian.org/). Select the appropriate ISO for your computer. 
 You can go for the full DVD version or netinst version of the ISO.
 
 ## 2 Audience & Scope

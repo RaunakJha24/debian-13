@@ -59,34 +59,34 @@ Download and install Rufus or Balena Etcher according to your requirement and pl
 ### 5.2 Configuration
 * The Installer will get you going once a network setting is detected. You may need to enter the hostname, domain name and password.
 
-### 5.2 Clock
+### 5.3 Clock
 * The Installer will get you going once clock setting is completed. You can select the region for the clock
 
-### 5.3 Partitioning
+### 5.4 Partitioning
 Now, the option to select the mode of partitioning will show four options you can select the first option ***Guided - Use entire disk***. Now, you Debian will automatically create the partitions. 
 * Select **All files in one partition**. 
 * Finally, select **Finish Partitioning and write changes to disk** and click **Continue**.
 * One final confirmation dialog will appear which will ask you to select **Yes** or **No**.
 
-### 5.4 Base System
+### 5.5 Base System
 Now, you need to install the base system. It will be done by the installer after it downloads the core packages.
 
-### 5.5 Network Mirror
+### 5.6 Network Mirror
 You may be asked to select the option for Network Mirror. Here, you may select **Yes** and choose  an appropriate mirror.
 
-### 5.6 Software selection
+### 5.7 Software selection
 Select a desktop environment for your Debian installation. You can select Debian desktop installation along with standard system utilities and your favorite environment. 
 
-### 5. Install the Bootloader (GRUB) 
+### 5.8 Install the Bootloader (GRUB) 
 The installer will prompt you to install the bootloader.
 
-### 5. User Account
+### 5.9 User Account
 Now, you need to select the User account and password for your system. 
 
-### 5. Finish the Installation
+### 6 Finish the Installation
 * Finally you need to reboot the computer.
 * You can eject the USB once you see the prompt on the screen.
 
-## 6 Boot into Debian
+## 7 Boot into Debian
 * Now, the system will boot for the first time into Debian.
 * Finally, you will be asked for the user password. 

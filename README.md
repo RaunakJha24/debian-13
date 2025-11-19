@@ -83,7 +83,7 @@ The installer will prompt you to install the bootloader.
 ### 5.9 User Account
 Now, you need to select the User account and password for your system. 
 
-### 6 Finish the Installation
+## 6 Finish the Installation
 * Finally you need to reboot the computer.
 * You can eject the USB once you see the prompt on the screen.
 

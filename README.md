@@ -10,7 +10,7 @@ You can go for the full DVD version or netinst version of the ISO.
 This guide is intended for system administrators or users familiar with basic system hardware BIOS/UEFI setup, who wish to install Debian 13.
 
 ### 2.2 What this covers
-* Downloading and verifying Debian 13 installation media 
+* Downloading and verifying Debian 13 installation file 
 * Creating a bootable USB installation drive
 * Booting the installer
 * Basic installation: partitioning, user setup, software selection
